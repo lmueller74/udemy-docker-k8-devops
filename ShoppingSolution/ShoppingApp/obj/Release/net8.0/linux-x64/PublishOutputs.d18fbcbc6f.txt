@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\ShoppingApp
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\ShoppingApp.dll
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\ShoppingApp.deps.json
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\ShoppingApp.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\udemy-docker-k8-devops\ShoppingSolution\ShoppingApp\obj\Release\net8.0\linux-x64\PubTmp\Out\ShoppingApp.pdb

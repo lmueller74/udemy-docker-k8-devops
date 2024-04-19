@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FuwKj/JoWuLQZ86SZAM7Q7vpKYYRB6+n5gXvys8Jf1WgSOboARzkQacW/AmPBl+GDUf9I1WWzYwvLPbA8v/IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\udemy-docker-k8-devops\\ShoppingSolution\\ShoppingApp\\ShoppingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.4\\microsoft.netcore.app.runtime.linux-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.4\\microsoft.netcore.app.host.linux-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
